@@ -1,5 +1,20 @@
 abc
 new change
 hdfjshkdffkjbdfk
+<<<<<<< HEAD
+hhnndd
+=======
+<<<<<<< HEAD
+vjffkh
+=======
+>>>>>>> a8000902eebee8524353d487d020295b0cb1aaa3
 hello tanay
+<<<<<<< HEAD
 prateek
+=======
+>>>>>>> b1525818913bccb4f262e348a01d1c6e21eee2ce
+{
+welcome
+}
+erasing all changes
+>>>>>>> 6a38958eaffea5604d48300f60e4493a845e90d1
