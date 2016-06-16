@@ -1,5 +1,16 @@
 abc
 new change
 hdfjshkdffkjbdfk
+<<<<<<< HEAD
 hhnndd
+=======
+<<<<<<< HEAD
+vjffkh
+=======
+>>>>>>> a8000902eebee8524353d487d020295b0cb1aaa3
 hello tanay
+>>>>>>> b1525818913bccb4f262e348a01d1c6e21eee2ce
+{
+welcome
+}
+erasing all changes
